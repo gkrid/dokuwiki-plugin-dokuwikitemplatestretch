@@ -1,6 +1,6 @@
 base dokuwikitemplatestretch
 author Szymon Olewniczak
-email (my first name) [at] imz [dot] re
+email solewniczak@rid.pl
 date 2013-09-25
 name Dokuwiki Template Stretch
 desc Stretch default dokuwiki template to fits whole page.
