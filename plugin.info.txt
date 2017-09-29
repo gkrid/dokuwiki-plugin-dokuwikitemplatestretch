@@ -1,7 +1,7 @@
 base dokuwikitemplatestretch
 author Szymon Olewniczak
 email solewniczak@rid.pl
-date 2013-09-25
+date 2017-09-29
 name Dokuwiki Template Stretch
 desc Stretch default dokuwiki template to fits whole page.
 url http://www.dokuwiki.org/plugin:dokuwikitemplatestretch
